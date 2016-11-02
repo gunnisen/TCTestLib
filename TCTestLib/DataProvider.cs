@@ -6,7 +6,7 @@ namespace TCTestLib
     {
         public static string Greeting()
         {
-            return $"Hei fadderuttan fra TCTestLib.DataProvider, versjon {Assembly.GetExecutingAssembly().GetName().Version}!";
+            return string.Format("Hei fadderuttan fra TCTestLib.DataProvider, versjon {0}!", Assembly.GetExecutingAssembly().GetName().Version);
         }
     }
 }
