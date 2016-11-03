@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package>
 	<metadata>
-		<id>$id$</id>
-		<version>$version$</version>
-		<title>$title$</title>
-		<authors>$author$</authors>
+		<id>Gsy.TCTestLib</id>
+		<version>1.0.0.1</version>
+		<title>TCTestLib</title>
+		<authors>Gunnar Sylthe</authors>
 		<owners>$author$</owners>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>$description$</description>
